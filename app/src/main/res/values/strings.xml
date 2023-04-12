@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grocery Go</string>
+    <string name="first_slide">Choose Your Products</string>
+    <string name="Second_slide">Fast Delivery</string>
+    <string name="Third_slide">Good Service</string>
+
+    <string name="description1">Welcome to our grocery app! With our easy-to-use interface, you can browse and select from a wide variety of products. Simply choose the items you need and add them to your cart. Happy shopping!</string>
+    <string name="description2">Welcome to our fast delivery service! With just a few taps, you can have your groceries delivered straight to your door. Our team of dedicated drivers will ensure your order is delivered on time and in perfect condition. Shop now and experience the convenience of fast delivery!</string>
+    <string name="description3">Welcome to our app! We pride ourselves on providing good service to all of our customers. With our easy-to-use interface, you can quickly and easily find what you are looking for and make your grocery shopping experience as seamless as possible. Thank you for choosing us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
