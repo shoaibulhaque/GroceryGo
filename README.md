@@ -1,3 +1,7 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/shoaibulhaque/GroceryGo/main/PhotoRoom-20230718_183805.png" height="300"/> </div>
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg"/>
   <img src="https://img.shields.io/badge/language-Java-orange.svg"/>
